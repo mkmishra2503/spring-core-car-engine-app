@@ -81,45 +81,41 @@ car-engine-app1
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-engine-app1.git
+   git clone: https://github.com/mkmishra2503/spring-core-car-engine-app.git
+   ```
+2.Open the project in Eclipse / IntelliJ IDEA
+3.Make sure Java 11 is configured
+4.Run: MainApp.java
 
-Open the project in Eclipse / IntelliJ IDEA
+---
 
-Make sure Java 11 is configured
-
-Run:
-
-MainApp.java
-
-📸 Output
-Petrol Engine Started
-Car is running
 ## 📸 Output Screenshot
 
 Below is the console output of the application after running `MainApp.java`:
 
 ![Spring Core Output](screenshots/output.png)
 
-
-
 (Output may vary based on injected engine implementation)
 
-🎯 Learning Purpose
+---
 
-This project is created to:
+## 🎯 Learning Purpose
 
-Understand Spring Core fundamentals
+- This project is created to:
+- Understand Spring Core fundamentals
+- Learn annotation-based configuration
+- Practice clean and modular Java code
+- Prepare for Java & Spring interviews
 
-Learn annotation-based configuration
-
-Practice clean and modular Java code
-
-Prepare for Java & Spring interviews
+---
 
 👨‍💻 Author
 
-Mithilesh Kumar Mishra
+Mithilesh Kumar Mishra                                                                 
 Java Developer | Spring Framework Learner
+
+---
+
 ⭐ Support
 
 ⭐ If you found this project helpful, please give it a star to support and encourage my learning journey.
