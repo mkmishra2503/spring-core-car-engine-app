@@ -83,9 +83,9 @@ car-engine-app1
    ```bash
    git clone: https://github.com/mkmishra2503/spring-core-car-engine-app.git
    ```
-2.Open the project in Eclipse / IntelliJ IDEA
-3.Make sure Java 11 is configured
-4.Run: MainApp.java
+2.Open the project in Eclipse                                                                                                                                                            
+3.Make sure Java 11 is configured                                                                                                                              
+4.Run: MainApp.java                                                                                                                                                                 
 
 ---
 
@@ -116,6 +116,6 @@ Java Developer | Spring Framework Learner
 
 ---
 
-⭐ Support
+⭐ **Support**
 
 ⭐ If you found this project helpful, please give it a star to support and encourage my learning journey.
