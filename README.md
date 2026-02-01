@@ -28,7 +28,6 @@ The project focuses on:
 ---
 
 ## 📂 Project Structure
-
 spring-core-car-engine-app
 │
 ├── 📁 src
@@ -59,7 +58,6 @@ spring-core-car-engine-app
 │
 ├── 📄 README.md
 ├── 📄 .gitignore
-├── 📄 LICENSE
 └── 📄 pom.xml
 
 ---
