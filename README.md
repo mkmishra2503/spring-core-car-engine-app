@@ -29,28 +29,38 @@ The project focuses on:
 
 ## 📂 Project Structure
 
-car-engine-app1
+spring-core-car-engine-app
 │
-├── src/main/java
-│ ├── com.springcore.car
-│ │ └── Car.java
-│ │
-│ ├── com.springcore.engine
-│ │ ├── Engine.java
-│ │ ├── PetrolEngine.java
-│ │ └── DieselEngine.java
-│ │
-│ ├── com.springcore.config
-│ │ └── AppConfig.java
-│ │
-│ └── com.springcore.main
-│ └── MainApp.java
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── springcore
+│   │   │           ├── car
+│   │   │           │   └── Car.java
+│   │   │           │
+│   │   │           ├── engine
+│   │   │           │   ├── Engine.java
+│   │   │           │   ├── PetrolEngine.java
+│   │   │           │   └── DieselEngine.java
+│   │   │           │
+│   │   │           ├── config
+│   │   │           │   └── AppConfig.java
+│   │   │           │
+│   │   │           └── main
+│   │   │               └── MainApp.java
+│   │   │
+│   │   └── resources
+│   │
+│   └── test
+│       └── java
 │
-├── src/main/resources
-├── pom.xml
+├── screenshots
+│   └── output.png
+│
 ├── README.md
-└── .gitignore
-
+├── .gitignore
+└── pom.xml
 
 ---
 
